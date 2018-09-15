@@ -1,2 +1,2 @@
 # AhliTekno
-This is AhliTekno repository by https://ahlitekno.net/
+This is AhliTekno's repository by https://ahlitekno.net/
